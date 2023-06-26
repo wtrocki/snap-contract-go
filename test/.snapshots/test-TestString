@@ -1,0 +1,3 @@
+(examples.TestStruct) {
+  Name: (string) (len=11) "Hello world"
+}
